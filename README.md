@@ -15,5 +15,3 @@
 ## Das Startfenster
 
 ![StartBildschirm.png](graphics/StartBildschirm.png)
-
-## FEHLER

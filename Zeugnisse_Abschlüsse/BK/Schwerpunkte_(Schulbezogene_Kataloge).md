@@ -10,6 +10,6 @@ vorbereitet.Wie bei allen Katalogen gilt, dass sich die Sortierreihenfolge über
 
 ![SchILD_Kataloge_BK_Schwerpunkte_AnwendungAktAbschnitt.png](../../graphics/SchILD_Kataloge_BK_Schwerpunkte_AnwendungAktAbschnitt.png)
 
-Der Eintrag des **Schwerpunkt**s findet dann in *Schüler ➜ Akt.
+Der Eintrag des **Schwerpunkts** findet dann in *Schüler ➜ Akt.
 Abschnitt* unter *Allgemeine Angaben II* im Feld **Schwerpunkt**
 entsprechend der Vorgaben des Bildungsganges statt.
